@@ -1,2 +1,3 @@
 # GCPStreamingDataPipeline
-GCPStreamingDataPipeline using Pub/Sub ,Dataflow
+Creating and running a Pub/Sub publisher using Python
+
